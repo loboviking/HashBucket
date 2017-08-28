@@ -1,6 +1,8 @@
 Pehr Collins (Hash Buckets/Index/Scan)
 12/2/2007
 
+A hash bucket is a hashing data structure similar to what is used by some databases.
+
 Overall Status:
 
 I implemented the stubbed methods in HashBucketPage.Java, HashIndex.Java, and HashScan.java.  I started
